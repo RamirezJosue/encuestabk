@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1,
+		"descripcion": "1.- Implementos de seguridad y calidad",
+		"preguntas": [
+			{
+				"id_pre": 11,
+				"desc_pre": "a.- Cinturón de Seguridad operativo",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 1
+			},
+			{
+				"id_pre": 12,
+				"desc_pre": "b.- Triángulo o cono de seguridad",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 13,
+				"desc_pre": "c.- Extintor",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 14,
+				"desc_pre": "d.- Llave, gata, palanca",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 15,
+				"desc_pre": "e.- Llanta de repuesto",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 16,
+				"desc_pre": "f.- Segregación covid19 en cabina (estado)",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 17,
+				"desc_pre": "g.- Deposito de agua para desinfección (estado)",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 18,
+				"desc_pre": "h.- Botiquín",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 19,
+				"desc_pre": "i.- Espejos",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 1
+			},
+			{
+				"id_pre": 111,
+				"desc_pre": "j.- Techos y cortinas (sin agujeros)",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 1
+			},
+			{
+				"id_pre": 112,
+				"desc_pre": "k.- Seguros de capot",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			}
+		]
+	},
+	{
+		"id": 2,
+		"descripcion": "2.- Luces y elementos sonoros",
+		"preguntas": [
+			{
+				"id_pre": 21,
+				"desc_pre": "a.- Luces altas y bajas",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 1
+			},
+			{
+				"id_pre": 22,
+				"desc_pre": "b.- Luces de freno",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 23,
+				"desc_pre": "c.- Luces de retroceso",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 24,
+				"desc_pre": "d.- Luces direccionales y emergencia",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 25,
+				"desc_pre": "e.- Luces internas de furgón",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 26,
+				"desc_pre": "f.- Luces externas de furgón",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 27,
+				"desc_pre": "g.- Claxon",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 28,
+				"desc_pre": "h.- Alarma de retroceso",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 0
+			}
+		]
+	},
+	{
+		"id": 3,
+		"descripcion": "3.- Neumáticos",
+		"preguntas": [
+			{
+				"id_pre": 31,
+				"desc_pre": "a.- Estado (presiones, sin incrustaciones ni anomalias)",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 1
+			}
+		]
+	},
+	{
+		"id": 4,
+		"descripcion": "4.- Capacidad de carga",
+		"preguntas": [
+			{
+				"id_pre": 41,
+				"desc_pre": "a.- No existe exceso de peso (carga útil vs guía de pesos)",
+				"respuestas": [
+					{
+						"name": "Si",
+						"value": 1
+					},
+					{
+						"name": "No",
+						"value": 0
+					}
+				],
+				"type": "radiobutton",
+				"mandatorio": 1
+			}
+		]
+	},
+	{
+		"id": 5,
+		"descripcion": "5.- Nivel de líquidos ( * de no aplicar dejar en valor medio )",
+		"preguntas": [
+			{
+				"id_pre": 51,
+				"desc_pre": "a.- Lunes - Aceite de motor",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 52,
+				"desc_pre": "b.- Lunes - Refrigerante",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 53,
+				"desc_pre": "c.- Lunes - Aceite de dirección",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 54,
+				"desc_pre": "d.- Lunes - Líquido de freno",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 55,
+				"desc_pre": "e.- Lunes - Líquido de embrague",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			},
+			{
+				"id_pre": 56,
+				"desc_pre": "f.- Lunes - Agua limpiaparabrisas",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			}
+		]
+	},
+	{
+		"id": 6,
+		"descripcion": "6.- Kilometraje de la unidad (km)",
+		"preguntas": [
+			{
+				"id_pre": 61,
+				"desc_pre": "a.- Kilometraje de unidad (km)",
+				"respuestas": [
+					{
+						"name": "texto",
+						"value": ""
+					}
+				],
+				"type": "text",
+				"mandatorio": 1
+			}
+		]
+	},
+	{
+		"id": 7,
+		"descripcion": "7.- Nivel de combustible inicial (gal)",
+		"preguntas": [
+			{
+				"id_pre": 71,
+				"desc_pre": "a.- Nivel de combustible final (gal)",
+				"respuestas": [
+					{
+						"name": [
+							"Bajo",
+							"",
+							"Medio",
+							"",
+							"Lleno"
+						],
+						"value": [
+							1,
+							2,
+							3,
+							4,
+							5
+						]
+					}
+				],
+				"type": "range",
+				"mandatorio": 0
+			}
+		]
+	},
+	{
+		"id": 8,
+		"descripcion": "8.- Observaciones - si marco ",
+		"preguntas": [
+			{
+				"id_pre": 81,
+				"desc_pre": "Observaciones - si marco ",
+				"respuestas": [
+					{
+						"name": "texto",
+						"value": ""
+					}
+				],
+				"type": "text",
+				"mandatorio": 0
+			}
+		]
+	}
+]
